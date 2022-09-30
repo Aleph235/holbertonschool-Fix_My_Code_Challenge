@@ -2,7 +2,7 @@
 """ Documentation """
 
 
-class square():
+class Square():
     """ Documentation """
     size = 0
 
@@ -26,7 +26,7 @@ class square():
 
 if __name__ == "__main__":
 
-    s = square(size=12)
+    s = Square(size=12)
     print(s)
     print(s.area_of_my_square())
     print(s.PermiterOfMySquare())
