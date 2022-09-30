@@ -1,8 +1,8 @@
 #!/usr/bin/python3
-
+"""doc string"""
 
 class square():
-
+    """doc string"""
     width = 0
     height = 0
 
